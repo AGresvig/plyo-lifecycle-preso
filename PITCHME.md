@@ -1,4 +1,3 @@
-![Plyo Logo](https://files.plyo.io/plyo-digitalisering/images/logos/logo_grid-header.svg)
 
 ## Client Project Lifecycle
 An overview - from client introduction to site launch
